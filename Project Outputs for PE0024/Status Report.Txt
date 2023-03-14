@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PE0024.PrjPcb]
+   Generated File[Bill of Materials-PE0024.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:30:05 PM On 11/30/2022
